@@ -1,4 +1,4 @@
-
+// eslint-disable-next-line
 import Expenses from './components/Expenses'
 
 function App() {
