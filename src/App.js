@@ -34,6 +34,7 @@ function App() {
     setExpenses((prev) => {
       return [expense, ...prev];
     });
+    // console.log(expense.date.toString().split(' ')[3]);
   }
 
   return (
